@@ -8,7 +8,7 @@
 __pycache__/
 local_settings.py
 db.sqlite3
-db.sqlite3-journal
+db.sqlite3-journalfsdfsd
 media
 
 # If your build process includes running collectstatic, then you probably don't need or want to include staticfiles/
@@ -17,7 +17,7 @@ media
 
 ### Django.Python Stack ###
 # Byte-compiled / optimized / DLL files
-*.py[cod]
+*.py[cod]sdffds
 *$py.class
 
 # C extensions
